@@ -5,4 +5,4 @@
 ![Screenshot](admin.png)
 ![Screenshot](cart.png)
 ![Screenshot](receipt.png)
-![Screenshot](odrers.png)
+![Screenshot](orders.png)
